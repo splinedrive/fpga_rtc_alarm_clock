@@ -1,0 +1,9 @@
+set_io clk 60
+
+set_io sda 3
+set_io scl_pin 4
+set_io -pullup yes btn0 52
+set_io -pullup yes btn1 49
+set_io led 55
+set_io -pullup yes int_ 144
+set_io speaker 143
